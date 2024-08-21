@@ -14,3 +14,5 @@ Bu proje, YouTube benzeri bir video paylaşım platformunun temel işlevlerini t
 - **RapidAPI**: API istekleri yapmak ve veri almak için kullanılan bir platform.
 
  # youtube_clone
+
+- ![](https://github.com/Rasime-Dumlupunar/youtube_clone/blob/main/youtube-clone.gif)
