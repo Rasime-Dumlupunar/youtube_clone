@@ -15,4 +15,4 @@ Bu proje, YouTube benzeri bir video paylaşım platformunun temel işlevlerini t
 
  # youtube_clone
 
-- ![](https://github.com/Rasime-Dumlupunar/youtube_clone/blob/main/youtube-clone.gif)
+![](https://github.com/Rasime-Dumlupunar/youtube_clone/blob/main/youtube-clone.gif)
